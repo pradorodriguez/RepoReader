@@ -27,7 +27,7 @@ huggingface-hub==0.13.4
 idna==3.4
 Jinja2==3.1.2
 joblib==1.2.0
-langchain==0.0.136
+langchain==0.1.0
 lxml==4.9.2
 lz4==4.3.2
 Markdown==3.4.3
